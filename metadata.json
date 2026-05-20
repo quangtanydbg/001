@@ -1,0 +1,6 @@
+{
+  "name": "Tan Quang Portfolio",
+  "description": "Website cá nhân và danh mục dịch vụ của Tấn Quang, Videographer và Video Editor chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
